@@ -6,7 +6,13 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <h1>REACT Aplication for gh-pages</h1>
+        <h1>
+          CYCS & Co.{" "}
+          <small>
+            <i>zCoder!</i>
+          </small>
+        </h1>
+        <h2>REACT Aplication for gh-pages</h2>
         <a
           className="App-link"
           href="https://reactjs.org"
